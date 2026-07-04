@@ -43,6 +43,7 @@
 
 * {
   box-sizing: border-box;
+  cursor: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath d='M1 1 L 8 20 L 11 13 L 20 8 Z' fill='black' stroke='white' stroke-width='1.5' stroke-linejoin='round'/%3E%3Cline x1='1' y1='1' x2='11' y2='13' stroke='white' stroke-width='1.5'/%3E%3C/svg%3E") 1 1, auto !important;
 }
 
 html {
@@ -1815,7 +1816,6 @@ img {
 
 .photoshop-frame {
   background: #0d0d0d;
-  cursor: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath d='M1 1 L 8 20 L 11 13 L 20 8 Z' fill='black' stroke='white' stroke-width='1.5' stroke-linejoin='round'/%3E%3Cline x1='1' y1='1' x2='11' y2='13' stroke='white' stroke-width='1.5'/%3E%3C/svg%3E") 1 1, auto;
 }
 
 [data-theme="light"] .photoshop-frame {
